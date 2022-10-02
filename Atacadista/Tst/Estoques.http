@@ -1,6 +1,6 @@
 ### Listar estoque
 GET https://localhost:5001/api/estoque/listar
-
+ 
 ### Buscar estoque
 GET https://localhost:5001/api/estoque/buscar/2345
 
